@@ -19,7 +19,8 @@ ul {
 
 }
 
-li a {
+li a{
+    
     display: block;
 
     padding: 12px 14px;
@@ -32,6 +33,7 @@ li a {
     margin-top: 0px;
 
 }
+
 
 
 li {
